@@ -2,6 +2,8 @@
 O propósito deste repositório é ser o lugar para eu organizar as ideias e requisitos dos projetos que quero implementar em um futuro relativamente próximo.
 
 Talvez seja mais interessante organizar em forma de tabela, com requisitos e tecnologias...
+Talvez eu abra issues aqui também...
+Talvez eu pare de terminar as frases com reticências...
 
 ## Cartomante:
 - Calculadora de nome
@@ -27,11 +29,17 @@ Talvez seja mais interessante organizar em forma de tabela, com requisitos e tec
 - DinoTrunfo
 - Trunfo engine
 
-## Com backend
+## Geral
 - progHub/eMojo em react & react native + node e/ou firebase
 
 ## Processo padrão do 'Futuros':
 Quando um 'futuro' começa a ganhar o status de projeto ou quando os requisitos começam a ficar complexos mas ele ainda não é um projeto, ele ganha uma pasta aqui.
 
 
+| Projeto | PO | Categoria | Requisitos | Tecnologias |
+
+| Cabeçalho 1 | Cabeçalho 2 |
+|-------------|-------------|
+| Dado 1      | Dado 2      |
+| Dado 3      | Dado 4      |
 
