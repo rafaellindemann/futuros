@@ -2,7 +2,9 @@
 O propósito deste repositório é ser o lugar para eu organizar as ideias e requisitos dos projetos que quero implementar em um futuro relativamente próximo.
 
 Talvez seja mais interessante organizar em forma de tabela, com requisitos e tecnologias...
+
 Talvez eu abra issues aqui também...
+
 Talvez eu pare de terminar as frases com reticências...
 
 ## Cartomante:
