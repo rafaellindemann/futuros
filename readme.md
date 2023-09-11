@@ -27,12 +27,6 @@ Talvez eu pare de terminar as frases com reticências...
 - DinoTrunfo
 - Trunfo engine
 
-
-## aCartomante:
-- Calculadora de nome
-- Ciclo numerológico
-
-
 ## Geral
 
 
