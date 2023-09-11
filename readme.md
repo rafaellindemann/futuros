@@ -30,16 +30,28 @@ Talvez eu pare de terminar as frases com reticências...
 - Trunfo engine
 
 ## Geral
-- progHub/eMojo em react & react native + node e/ou firebase
+
+
+| Projeto | Categoria | PO | Tecnologias |
+|---------|----|-----------|------------|
+|progHub/eMojo | Didático | Eu | React/RN; Node; BD; | 
+Requisitos:
+- 
+- 
+
+## 
 
 ## Processo padrão do 'Futuros':
-Quando um 'futuro' começa a ganhar o status de projeto ou quando os requisitos começam a ficar complexos mas ele ainda não é um projeto, ele ganha uma pasta aqui.
+Quando um 'futuro' começa a ganhar o status de projeto ou quando os requisitos começam a ficar complexos mas ele ainda não é um projeto, ele ganha uma pasta aqui. Quando ele vira projeto, ganha seu próprio repositório.
 
 
-| Projeto | PO | Categoria | Requisitos | Tecnologias |
 
-| Cabeçalho 1 | Cabeçalho 2 |
-|-------------|-------------|
-| Dado 1      | Dado 2      |
-| Dado 3      | Dado 4      |
+
+
+
+<!-- | Projeto | Categoria | PO | Tecnologias |
+|---------|----|-----------|------------|
+| | | | |  -->
+
+
 
