@@ -35,6 +35,7 @@ Talvez eu pare de terminar as frases com reticências...
 | Projeto | Categoria | PO | Tecnologias |
 |---------|----|-----------|------------|
 |progHub/eMojo | Didático | Eu | React/RN; Node; BD; | 
+
 Requisitos:
 - 
 - 
