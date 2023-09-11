@@ -7,10 +7,6 @@ Talvez eu abra issues aqui também...
 
 Talvez eu pare de terminar as frases com reticências...
 
-## Cartomante:
-- Calculadora de nome
-- Ciclo numerológico
-
 ## Educativos
 - a Vacina em react e online (um card responsivo pra cada link, os links separados em abas)
     - backend para poder cadastrar novos recursos
@@ -31,6 +27,12 @@ Talvez eu pare de terminar as frases com reticências...
 - DinoTrunfo
 - Trunfo engine
 
+
+## aCartomante:
+- Calculadora de nome
+- Ciclo numerológico
+
+
 ## Geral
 
 
@@ -39,7 +41,7 @@ Talvez eu pare de terminar as frases com reticências...
 |progHub/eMojo | Didático | Eu | React/RN; Node; BD; | 
 
 Requisitos:
-- 
+- Rede social simples, com postagens de um emoji + texto curto
 - 
 
 ## 
