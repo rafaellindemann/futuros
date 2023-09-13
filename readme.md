@@ -43,6 +43,8 @@ Requisitos:
 ## Processo padrão do 'Futuros':
 Quando um 'futuro' começa a ganhar o status de projeto ou quando os requisitos começam a ficar complexos mas ele ainda não é um projeto, ele ganha uma pasta aqui. Quando ele vira projeto, ganha seu próprio repositório.
 
+## Balaio
+[20 ideias para front do Faraz](https://www.codewithfaraz.com/article/1/top-20-frontend-web-development-projects-for-beginners-in-2022)
 
 
 
