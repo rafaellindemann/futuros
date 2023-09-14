@@ -28,7 +28,7 @@ Talvez eu pare de terminar as frases com reticências...
 - Trunfo engine
 
 ## Geral
-
+- a fila da aula (front + back||firebase)
 
 | Projeto | Categoria | PO | Tecnologias |
 |---------|----|-----------|------------|
