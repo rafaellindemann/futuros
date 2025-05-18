@@ -23,12 +23,16 @@ Talvez eu pare de terminar as frases com reticências...
 ## Geral
 - a fila da aula (front + back||firebase)
 
+## Detalhamento dos embiões dos projetos
+
+### eMojo
+
 | Projeto | Categoria | PO | Tecnologias |
 |---------|----|-----------|------------|
-|progHub/eMojo | Didático | Eu | React/RN; Node; BD; | 
+|eMojo | Didático | Eu | React/RN; Node; BD; | 
 
 Requisitos:
-- Rede social simples, com postagens de um emoji + texto curto
+- Rede social simples, com postagens de um emoji + texto curto, reações por emojis
 - 
 
 ## 
