@@ -8,14 +8,7 @@ Talvez eu abra issues aqui também...
 Talvez eu pare de terminar as frases com reticências...
 
 ## Educativos
-- a Vacina em react e online (um card responsivo pra cada link, os links separados em abas)
-    - backend para poder cadastrar novos recursos
-    - componentes específicos para cada categoria
-    - Categorias:
-        - Cursos
-        - docs
-        - Canais de YT
-        - ...
+
 
 ## Da Princesa
 - oPlacar em react
